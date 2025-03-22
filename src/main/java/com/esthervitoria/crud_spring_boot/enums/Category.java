@@ -1,4 +1,4 @@
-package com.esthervitoria.crud_spring_boot.enumss;
+package com.esthervitoria.crud_spring_boot.enums;
 
 public enum Category {
 

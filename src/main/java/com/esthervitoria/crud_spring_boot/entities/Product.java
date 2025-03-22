@@ -5,7 +5,7 @@ import lombok.*;
 
 import java.util.List;
 
-import com.esthervitoria.crud_spring_boot.enumss.Category;
+import com.esthervitoria.crud_spring_boot.enums.Category;
 
 @Entity
 @Table(name="products")
